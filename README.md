@@ -1,6 +1,6 @@
 # TabMaster Lite
 
-**TabMaster Lite** is a Chrome extension designed to help users manage and optimize their browser tabs and sessions efficiently. This extension offers features for saving and restoring browser sessions, categorizing them for better organization, and deleting unused sessions to keep the extension clutter-free.
+**TabMaster Lite** is a Chrome extension designed to help users manage and optimize their browser tabs and sessions efficiently. This extension offers features for saving and restoring browser sessions, categorizing them for better organization, and deleting unused sessions to keep the extension clutter-free. Here's a short demo : https://youtu.be/31oHHamDhvw?si=-1Kh7ZDE5tawaLsX
 
 ## Features
 
