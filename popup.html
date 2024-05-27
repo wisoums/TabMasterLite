@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TabMaster Lite</title>
+    <link rel="stylesheet" type="text/css" href="popup.css">
+</head>
+<body>
+<h1>TabMaster Lite</h1>
+
+<!-- Save Session -->
+<input type="text" id="sessionName" placeholder="Enter session name">
+<select id="category">
+    <option value="">Select category</option>
+    <option value="Personal">Personal</option>
+    <option value="Work">Work</option>
+    <option value="Custom">Custom</option>
+</select>
+<input type="text" id="customCategory" placeholder="Enter custom category" style="display:none;">
+<button id="saveSession">Save Session</button>
+
+<!-- Restore Session -->
+<select id="sessionList"></select>
+<button id="restoreSession">Restore Session</button>
+<button id="deleteSession" style="background-color: rgba(204,82,204,0.99)">Delete Session</button>
+
+<script src="popup.js"></script>
+</body>
+</html>
+
+
